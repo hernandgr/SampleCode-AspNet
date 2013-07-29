@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploWcfJson.Servicio", "EjemploWcfJson.Servicio\EjemploWcfJson.Servicio.csproj", "{F8F2C086-D102-4802-A4EF-30AACBEFFA01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploWcfJSon.Entidades", "EjemploWcfJSon.Entidades\EjemploWcfJSon.Entidades.csproj", "{FD8D1818-FCB8-4E41-A222-E13643981982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F2C086-D102-4802-A4EF-30AACBEFFA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F2C086-D102-4802-A4EF-30AACBEFFA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F2C086-D102-4802-A4EF-30AACBEFFA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F2C086-D102-4802-A4EF-30AACBEFFA01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8D1818-FCB8-4E41-A222-E13643981982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8D1818-FCB8-4E41-A222-E13643981982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8D1818-FCB8-4E41-A222-E13643981982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8D1818-FCB8-4E41-A222-E13643981982}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

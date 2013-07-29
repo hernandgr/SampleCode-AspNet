@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateExcelWithEpp", "UpdateExcelWithEpp\UpdateExcelWithEpp.csproj", "{A67FA7CE-D850-4935-8874-38926DA96A7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferenciasComunes", "ReferenciasComunes", "{AB849512-3946-4D7A-9261-FDC5EFF45158}"
+	ProjectSection(SolutionItems) = preProject
+		ReferenciasComunes\EPPlus.dll = ReferenciasComunes\EPPlus.dll
+		ReferenciasComunes\EPPlus.XML = ReferenciasComunes\EPPlus.XML
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67FA7CE-D850-4935-8874-38926DA96A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67FA7CE-D850-4935-8874-38926DA96A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67FA7CE-D850-4935-8874-38926DA96A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67FA7CE-D850-4935-8874-38926DA96A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
